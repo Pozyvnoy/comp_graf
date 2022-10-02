@@ -1,0 +1,18 @@
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\bin\Debug\net6.0-windows\Лаба 1 комп графика.exe
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\bin\Debug\net6.0-windows\Лаба 1 комп графика.deps.json
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\bin\Debug\net6.0-windows\Лаба 1 комп графика.runtimeconfig.json
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\bin\Debug\net6.0-windows\Лаба 1 комп графика.dll
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\bin\Debug\net6.0-windows\Лаба 1 комп графика.pdb
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба 1 комп графика.csproj.AssemblyReference.cache
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба_1_комп_графика.Form1.resources
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба 1 комп графика.csproj.GenerateResource.cache
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба 1 комп графика.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба 1 комп графика.AssemblyInfoInputs.cache
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба 1 комп графика.AssemblyInfo.cs
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба 1 комп графика.csproj.CoreCompileInputs.cache
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба 1 комп графика.dll
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\refint\Лаба 1 комп графика.dll
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба 1 комп графика.pdb
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба 1 комп графика.genruntimeconfig.cache
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\ref\Лаба 1 комп графика.dll
+D:\практика\Лаба 1 комп графика\Лаба 1 комп графика\obj\Debug\net6.0-windows\Лаба_1_комп_графика.Form2.resources
