@@ -1,0 +1,11 @@
+D:\практика\лаба 1 комп графика №2\лааба\obj\Debug\лааба.csproj.AssemblyReference.cache
+D:\практика\лаба 1 комп графика №2\лааба\obj\Debug\лааба.csproj.SuggestedBindingRedirects.cache
+D:\практика\лаба 1 комп графика №2\лааба\obj\Debug\лааба.Form1.resources
+D:\практика\лаба 1 комп графика №2\лааба\obj\Debug\лааба.Properties.Resources.resources
+D:\практика\лаба 1 комп графика №2\лааба\obj\Debug\лааба.csproj.GenerateResource.cache
+D:\практика\лаба 1 комп графика №2\лааба\obj\Debug\лааба.csproj.CoreCompileInputs.cache
+D:\практика\лаба 1 комп графика №2\лааба\bin\Debug\лааба.exe.config
+D:\практика\лаба 1 комп графика №2\лааба\bin\Debug\лааба.exe
+D:\практика\лаба 1 комп графика №2\лааба\bin\Debug\лааба.pdb
+D:\практика\лаба 1 комп графика №2\лааба\obj\Debug\лааба.exe
+D:\практика\лаба 1 комп графика №2\лааба\obj\Debug\лааба.pdb
